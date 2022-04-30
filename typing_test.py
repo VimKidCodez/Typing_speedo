@@ -5,7 +5,7 @@ from tkinter import messagebox
 
 def slider():
     global count,sliderwords
-    text='Speed Typing App'
+    text='Speedo Typing App'
     if count>= len(text):
         count =0
         sliderwords =''
